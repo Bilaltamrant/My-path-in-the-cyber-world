@@ -1,4 +1,4 @@
-`markdown
+
 
 📚 التعبيرات العادية في لينكس (Regex in Linux)
 
@@ -79,4 +79,3 @@ Linux, Regex, grep, awk, sed, CybersecurityTools, TextProcessing
 📚 مصادر للتعمق
 1. Regex Tutorial - Learn by Examples
 2. Linux grep Command Guide
-`
